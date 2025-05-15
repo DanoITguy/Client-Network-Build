@@ -24,4 +24,4 @@ Familiar with attack surface management tools, various scan and remediation tech
 
 Basic understanding of incident response policies that utilize alerts and data from network detection tools, cloud and firewall logs, and utilizing knowledge of the steps required within the different stages of the Cyber Kill Chain.
 
-alert triage/response from
+
